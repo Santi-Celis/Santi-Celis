@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Santiago Celis 👋
 
 Soy una persona **proactiva, organizada y responsable**, con buenas relaciones interpersonales. Mi juventud y motivación me impulsan a aprender y crecer continuamente tanto en el ámbito personal como profesional.
 
@@ -11,9 +11,9 @@ El desarrollo Front-End me motiva especialmente debido a su papel crucial en la 
 ## Habilidades
 
 - **Lenguajes de Programación:** HTML, CSS, JavaScript
-- **Frameworks & Librerías:** React, Vue, Bootstrap, TailwindCSS
+- **Frameworks & Librerías:** React, Bootstrap, TailwindCSS, Next.js
 - **Control de Versiones:** Git, GitHub
-- **Herramientas de Desarrollo:** VS Code, Figma, Webpack, npm
+- **Herramientas de Desarrollo:** VS Code, Figma
 - **Diseño Web:** UX/UI, Diseño Responsivo
 
 ## Mi Filosofía
@@ -26,17 +26,14 @@ Mi trabajo no solo se enfoca en lo visual, sino también en asegurar que cada de
 
 Aquí puedes encontrar algunos de los proyectos en los que he trabajado:
 
-- [Nombre del Proyecto 1](link-a-tu-proyecto): Descripción breve del proyecto.
-- [Nombre del Proyecto 2](link-a-tu-proyecto): Descripción breve del proyecto.
-- [Nombre del Proyecto 3](link-a-tu-proyecto): Descripción breve del proyecto.
+- Club Fellini - Bar (https://final-project-blush-gamma.vercel.app/)
 
 ## Conectemos
 
 Si estás interesado en colaborar en proyectos, compartir ideas o simplemente charlar sobre desarrollo web, no dudes en contactarme:
 
-- 📧 Correo electrónico: [tuemail@dominio.com]
-- 🔗 LinkedIn: [Tu perfil en LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- 🌐 Portafolio: [Tu portafolio personal](https://www.tuportafolio.com)
+- 📧 Correo electrónico: santiagocelis2004@gmail.com
+- 🔗 LinkedIn: Santiago Celis (https://www.linkedin.com/in/santicelis/)
 
 ---
 
